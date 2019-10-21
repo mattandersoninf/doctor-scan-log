@@ -1,5 +1,5 @@
 # doctor-scan-log
-React app where you can view CT SCAN files
+React app where you can view CT SCAN files, a DICOM file web viewer
 
 
 ### references
